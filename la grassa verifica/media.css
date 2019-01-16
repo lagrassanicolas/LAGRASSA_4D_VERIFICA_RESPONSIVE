@@ -1,0 +1,47 @@
+<html>
+	<head>
+		<style>
+		#chania {
+		padding: 25px 50px 25px 100px;
+		}
+		
+		
+		
+		</style>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	</head>
+		<body style = "background-color:black">
+		
+			<div id="chania" style="background-color:grey" >
+				<h1 style = "color: black"> Chania</h1>
+			
+			</div>
+				
+			<div style="background-color:grey">
+				<h3 style = "color: white" > The Flight</h3>
+			</div>
+			
+			<div style="background-color:grey">
+				<h3 style = "color: white"> The City</h3>
+			</div>
+			
+			<div style="background-color:grey">
+				<h3 style = "color: white"> The Island</h3>
+			</div>
+			
+			<div style="background-color:grey">
+				<h3 style = "color: white"> The Food</h3>
+			</div>
+			
+			
+				
+				
+			
+	
+		</body>
+	
+</html>
+
+
+<iframe src="https://www.w3schools.com"></iframe>
